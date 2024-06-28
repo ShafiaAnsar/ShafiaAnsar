@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shafia Ansar! 👋
 
-<!--
-**ShafiaAnsar/shafiaansar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer with a keen interest in software development, web technologies, and problem-solving. I love working on innovative projects and continuously learning new things to enhance my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- **[Bachelor]** in [Economics]
+  - [University of Sargodha], [2020-2024]
+
+## Experience
+
+- **[Associate Software Engineer]** at [Wanile Technologies]
+  - [Feb 2024]
+  - [Brief description of your responsibilities and achievements]
+
+## Contact Me
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shafia-ansar-886888212/) or via email at [shafiaansar142@gmail.com].
