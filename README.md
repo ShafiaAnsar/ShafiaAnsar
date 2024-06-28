@@ -6,7 +6,7 @@ I'm a passionate developer with a keen interest in software development, web tec
 
 ## Education
 
-- *Bachelor** in Economics
+- Bachelor in Economics
   - University of Sargodha, 2020-2024
 
 ## Experience
