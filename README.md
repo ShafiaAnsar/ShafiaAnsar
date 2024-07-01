@@ -4,21 +4,14 @@
 
 I am a passionate and dedicated Software Engineer with a strong background in front-end development. My expertise lies in crafting dynamic and responsive user interfaces using modern JavaScript frameworks and libraries. I thrive on creating seamless user experiences and am constantly seeking new challenges to expand my skill set. With a keen eye for detail and a commitment to excellence, I strive to deliver high-quality solutions that meet both user and business needs.
 
----
-
-### 📫 Contact Information
-- **Phone:** +92 310-7566943
-- **Email:** shafiaansar142@gmail.com
-
----
-
+--
 ### 🛠 Skills
 
 - **Languages & Frameworks:** JavaScript, TypeScript, React.js, Redux, Node.js, Express.js, HTML, CSS, Tailwind CSS
 - **Databases:** MongoDB
 - **Tools:** Git
 
----
+--
 
 ### 🌟 Projects
 
@@ -49,9 +42,7 @@ I am a passionate and dedicated Software Engineer with a strong background in fr
 - **Technologies:** JavaScript, React.js, Tailwind CSS
 - Developed a health and wellness platform connecting users with professional caregivers.
 - Led front-end development to create a responsive and user-friendly interface.
-
----
-
+--
 ### 💼 Experience
 
 **Software Engineer**  
@@ -67,6 +58,7 @@ _February 2024 - Current_
 _August 2020 - June 2024_  
 - CGPA: 3.65
 
----
+### 📫 Contact Information
+- **Email:** shafiaansar142@gmail.com
 
 Thank you for visiting my profile! Feel free to explore my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/shafia-ansar-886888212/).
